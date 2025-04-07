@@ -8,13 +8,6 @@ let products = [
     image: "./img/Mars rug.png",
   },
   {
-    name: "Mars rug",
-    price: 100,
-    coins: "coins",
-    stock: 24,
-    image: "./img/Mars rug.png",
-  },
-  {
     name: "Keyboard sticker",
     price: 49,
     coins: "coins",
